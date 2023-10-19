@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EngrJohn
-- 👀 I’m interested in Learning Software Engineering
+- 👀 I’m interested in Learning Software Engineering / Network Engineering / Cybersecurity
 - 🌱 I’m currently learning Python and Java
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Practice Basic projects / IT Management practice
 - 📫 How to reach me Via Facebook/ John Rey Lagansua or gmail/ johnreylagansua@gmail.com
 
 <!---
